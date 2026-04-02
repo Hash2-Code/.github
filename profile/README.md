@@ -1,6 +1,6 @@
 # 👋 Welcome to Hash²Code
 
-![Hash²Code Logo](https://your-logo-url.com/logo.png)
+![Hash²Code Logo](https://github.com/Hash2-Code/.github/blob/main/assets/logo.png)
 
 **Hash²Code** is a modern software development company specializing in building reliable, scalable, and efficient solutions. We love turning ideas into reality using the best tools in the industry.
 
